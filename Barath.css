@@ -1,0 +1,19 @@
+.topnav a {
+
+  	width: 130px;
+  	background-color: Black;
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 18px 45px;
+    text-decoration: none;
+    font-size: 15px;
+}
+.a3{
+      width: 300px;
+  height: 80px;
+  background-color: red;
+  -ms-transform: skewY(5deg);
+  transform: skewY(3deg);
+}
